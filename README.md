@@ -22,3 +22,11 @@ rule-providers:
     path: ./ruleset/custom.yaml
     interval: 86400
 ```
+```
+rules:
+  - RULE-SET,media,Media
+  - RULE-SET,telegram,Media
+  - RULE-SET,custom,Proxy
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY
+```
