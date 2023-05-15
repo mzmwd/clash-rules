@@ -1,5 +1,4 @@
 payload:
-  #youtube 
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
@@ -15,11 +14,9 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,music.youtube.com
-  #pornhub
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
-  #hanime1.me
   - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hembed.com
