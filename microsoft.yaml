@@ -1,34 +1,7 @@
 payload:
-  #youtube
-  - DOMAIN-KEYWORD,youtube
-  - DOMAIN,youtubei.googleapis.com
-  - DOMAIN,yt3.ggpht.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,withyoutube.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtubeeducation.com
-  - DOMAIN-SUFFIX,youtubegaming.com
-  - DOMAIN-SUFFIX,youtubekids.com
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN,music.youtube.com
-  #pornhub
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  #hanime1.me
-  - DOMAIN-SUFFIX,hanime1.me
-  - DOMAIN-SUFFIX,hembed.com
-  #onedrive googledirve
-  - PROCESS-NAME,Telegram.exe
-  - PROCESS-NAME,GoogleDriveFS.exe
   #onedrive
-  - PROCESS-NAME,OneDrive.exe
-  - PROCESS-NAME,OneDriveUpdater.exe
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDriveUpdater
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
